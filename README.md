@@ -1,6 +1,6 @@
 # 20NewsGroup
 
-The main goal of this project is to classify the newsgroups and apply an efficient algorithm to the dataset.
+The main goal of this project is to classify the newsgroups dataset accurately into correct groups.
 
 The dataset is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. 
 
