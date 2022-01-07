@@ -1,4 +1,3 @@
-
 # Objective:
 
 # The 20 Newsgroups data set is a collection of a number of newspapers group documents,
@@ -120,7 +119,6 @@ pd.DataFrame({"real value": newsgroups_test.target, "Predicted value": pred})
 
 
 #accuracy 
-metrics.accuracy_score(newsgroups_test.target, pred)
+print(accuracy_score(newsgroups_test.target, pred))
 
 print(classification_report(newsgroups_test.target,pred))
-
