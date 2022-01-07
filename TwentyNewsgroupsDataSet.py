@@ -122,9 +122,5 @@ pd.DataFrame({"real value": newsgroups_test.target, "Predicted value": pred})
 #accuracy 
 metrics.accuracy_score(newsgroups_test.target, pred)
 
-
-# In[14]:
-
-
 print(classification_report(newsgroups_test.target,pred))
 
