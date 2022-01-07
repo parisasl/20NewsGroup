@@ -1,7 +1,12 @@
 
 # Objective:
 
-# The 20 Newsgroups data set is a collection of A number of newspapers group documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, though he does not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
+# The 20 Newsgroups data set is a collection of A number of newspapers group documents,
+# partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge,
+# it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, 
+# though he does not explicitly mention this collection. 
+# The 20 newsgroups collection has become a popular data set for experiments in text applications 
+# of machine learning techniques, such as text classification and text clustering.
 
 # ###### Computer
 # - Graphics
